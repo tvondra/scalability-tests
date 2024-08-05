@@ -1,0 +1,146 @@
+2024-08-01 16:33:36.656 CEST [3008196] LOG:  starting PostgreSQL 18devel on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+2024-08-01 16:33:36.656 CEST [3008196] LOG:  listening on IPv6 address "::1", port 5432
+2024-08-01 16:33:36.656 CEST [3008196] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-08-01 16:33:36.657 CEST [3008196] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2024-08-01 16:33:36.659 CEST [3008199] LOG:  database system was shut down at 2024-08-01 16:33:35 CEST
+2024-08-01 16:33:36.663 CEST [3008196] LOG:  database system is ready to accept connections
+2024-08-01 16:33:45.195 CEST [3008197] LOG:  checkpoints are occurring too frequently (9 seconds apart)
+2024-08-01 16:33:45.195 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:33:45.195 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:33:52.752 CEST [3008197] LOG:  checkpoint complete: wrote 54850 buffers (20.9%); 0 WAL file(s) added, 1 removed, 32 recycled; write=6.819 s, sync=0.659 s, total=7.558 s; sync files=707, longest=0.432 s, average=0.001 s; distance=544203 kB, estimate=544203 kB; lsn=0/41B235F0, redo lsn=0/2285E410
+2024-08-01 16:33:52.947 CEST [3008197] LOG:  checkpoints are occurring too frequently (7 seconds apart)
+2024-08-01 16:33:52.947 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:33:52.952 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:33:59.234 CEST [3008197] LOG:  checkpoint complete: wrote 59892 buffers (22.8%); 0 WAL file(s) added, 1 removed, 32 recycled; write=5.823 s, sync=0.382 s, total=6.287 s; sync files=4, longest=0.209 s, average=0.096 s; distance=533255 kB, estimate=543109 kB; lsn=0/622D6E78, redo lsn=0/431201E8
+2024-08-01 16:33:59.647 CEST [3008197] LOG:  checkpoints are occurring too frequently (7 seconds apart)
+2024-08-01 16:33:59.647 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:33:59.648 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:34:06.060 CEST [3008197] LOG:  checkpoint complete: wrote 61746 buffers (23.6%); 0 WAL file(s) added, 1 removed, 32 recycled; write=5.950 s, sync=0.382 s, total=6.414 s; sync files=4, longest=0.367 s, average=0.096 s; distance=549579 kB, estimate=549579 kB; lsn=0/8336AB58, redo lsn=0/649D2FA0
+2024-08-01 16:34:06.468 CEST [3008197] LOG:  checkpoints are occurring too frequently (7 seconds apart)
+2024-08-01 16:34:06.468 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:34:06.469 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:34:12.710 CEST [3008197] LOG:  checkpoint complete: wrote 60730 buffers (23.2%); 0 WAL file(s) added, 1 removed, 32 recycled; write=5.813 s, sync=0.360 s, total=6.242 s; sync files=4, longest=0.289 s, average=0.090 s; distance=540648 kB, estimate=548686 kB; lsn=0/A4463780, redo lsn=0/859CD050
+2024-08-01 16:34:13.118 CEST [3008197] LOG:  checkpoints are occurring too frequently (7 seconds apart)
+2024-08-01 16:34:13.118 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:34:13.118 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:34:19.379 CEST [3008197] LOG:  checkpoint complete: wrote 61176 buffers (23.3%); 0 WAL file(s) added, 1 removed, 32 recycled; write=5.767 s, sync=0.412 s, total=6.261 s; sync files=4, longest=0.378 s, average=0.103 s; distance=545171 kB, estimate=548334 kB; lsn=0/C5C44DE8, redo lsn=0/A6E32028
+2024-08-01 16:34:19.573 CEST [3008197] LOG:  checkpoints are occurring too frequently (6 seconds apart)
+2024-08-01 16:34:19.573 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:34:19.577 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:34:25.739 CEST [3008197] LOG:  checkpoint complete: wrote 59519 buffers (22.7%); 0 WAL file(s) added, 0 removed, 33 recycled; write=5.686 s, sync=0.433 s, total=6.166 s; sync files=3, longest=0.430 s, average=0.145 s; distance=529740 kB, estimate=546475 kB; lsn=0/E501E038, redo lsn=0/C73850C8
+2024-08-01 16:34:26.293 CEST [3008197] LOG:  checkpoints are occurring too frequently (7 seconds apart)
+2024-08-01 16:34:26.293 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:34:26.298 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:34:32.420 CEST [3008197] LOG:  checkpoint complete: wrote 60397 buffers (23.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=5.598 s, sync=0.466 s, total=6.127 s; sync files=4, longest=0.451 s, average=0.117 s; distance=537693 kB, estimate=545597 kB; lsn=1/6A468F0, redo lsn=0/E809C818
+2024-08-01 16:34:32.824 CEST [3008197] LOG:  checkpoints are occurring too frequently (6 seconds apart)
+2024-08-01 16:34:32.824 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:34:32.828 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:34:39.105 CEST [3008197] LOG:  checkpoint complete: wrote 60913 buffers (23.2%); 0 WAL file(s) added, 1 removed, 32 recycled; write=5.806 s, sync=0.383 s, total=6.282 s; sync files=4, longest=0.381 s, average=0.096 s; distance=542151 kB, estimate=545252 kB; lsn=1/28000720, redo lsn=1/920E500
+2024-08-01 16:34:39.504 CEST [3008197] LOG:  checkpoints are occurring too frequently (7 seconds apart)
+2024-08-01 16:34:39.504 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:34:39.508 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:34:52.592 CEST [3008197] LOG:  checkpoint complete: wrote 60913 buffers (23.2%); 0 WAL file(s) added, 2 removed, 31 recycled; write=9.694 s, sync=3.350 s, total=13.088 s; sync files=8, longest=1.159 s, average=0.419 s; distance=542912 kB, estimate=545018 kB; lsn=1/4A1169A0, redo lsn=1/2A43E610
+2024-08-01 16:34:54.868 CEST [3008197] LOG:  checkpoints are occurring too frequently (15 seconds apart)
+2024-08-01 16:34:54.868 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:34:54.868 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:35:27.773 CEST [3008197] LOG:  checkpoint complete: wrote 250979 buffers (95.7%); 0 WAL file(s) added, 2 removed, 31 recycled; write=31.823 s, sync=1.035 s, total=32.906 s; sync files=32, longest=0.144 s, average=0.033 s; distance=549381 kB, estimate=549381 kB; lsn=1/6BC01780, redo lsn=1/4BCBFAA8
+2024-08-01 16:35:30.962 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:35:36.693 CEST [3008242] LOG:  skipping vacuum of "t" --- lock not available
+2024-08-01 16:35:37.065 CEST [3008197] LOG:  checkpoint complete: wrote 60 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=5.921 s, sync=0.149 s, total=6.103 s; sync files=51, longest=0.115 s, average=0.003 s; distance=533190 kB, estimate=547762 kB; lsn=1/73407498, redo lsn=1/6C5713C8
+2024-08-01 16:36:04.777 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:36:36.712 CEST [3008262] LOG:  skipping vacuum of "t" --- lock not available
+2024-08-01 16:36:39.540 CEST [3008197] LOG:  checkpoint complete: wrote 755 buffers (0.3%); 0 WAL file(s) added, 0 removed, 33 recycled; write=33.895 s, sync=0.833 s, total=34.764 s; sync files=334, longest=0.120 s, average=0.003 s; distance=543640 kB, estimate=547349 kB; lsn=1/AB76A678, redo lsn=1/8D8576F8
+2024-08-01 16:36:42.892 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:36:52.737 CEST [3008197] LOG:  checkpoint complete: wrote 97 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=9.629 s, sync=0.192 s, total=9.847 s; sync files=30, longest=0.098 s, average=0.007 s; distance=543047 kB, estimate=546919 kB; lsn=1/B6B03B00, redo lsn=1/AEAA9450
+2024-08-01 16:37:21.865 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:37:24.417 CEST [3008197] LOG:  checkpoint complete: wrote 20 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=1.912 s, sync=0.611 s, total=2.553 s; sync files=24, longest=0.111 s, average=0.026 s; distance=542620 kB, estimate=546489 kB; lsn=1/D0E03AC0, redo lsn=1/CFC90488
+2024-08-01 16:37:36.731 CEST [3008280] LOG:  skipping vacuum of "t" --- lock not available
+2024-08-01 16:38:01.270 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:38:03.853 CEST [3008197] LOG:  checkpoint complete: wrote 20 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=1.911 s, sync=0.646 s, total=2.587 s; sync files=26, longest=0.095 s, average=0.025 s; distance=531864 kB, estimate=545027 kB; lsn=1/F28B7AB8, redo lsn=1/F03F6858
+2024-08-01 16:38:36.751 CEST [3008296] LOG:  skipping vacuum of "t" --- lock not available
+2024-08-01 16:38:41.245 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:38:43.878 CEST [3008197] LOG:  checkpoint complete: wrote 20 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=1.912 s, sync=0.688 s, total=2.634 s; sync files=26, longest=0.112 s, average=0.027 s; distance=543728 kB, estimate=544897 kB; lsn=2/1436CF60, redo lsn=2/116F2AB8
+2024-08-01 16:39:17.857 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:39:20.302 CEST [3008197] LOG:  checkpoint complete: wrote 18 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=1.711 s, sync=0.698 s, total=2.445 s; sync files=26, longest=0.110 s, average=0.027 s; distance=535795 kB, estimate=543987 kB; lsn=2/3223FE48, redo lsn=2/3222F738
+2024-08-01 16:39:36.771 CEST [3008313] LOG:  skipping vacuum of "t" --- lock not available
+2024-08-01 16:39:58.962 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:40:01.216 CEST [3008197] LOG:  checkpoint complete: wrote 16 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=1.510 s, sync=0.692 s, total=2.254 s; sync files=25, longest=0.108 s, average=0.028 s; distance=551597 kB, estimate=551597 kB; lsn=2/53CEAC88, redo lsn=2/53CDAC00
+2024-08-01 16:40:36.790 CEST [3008329] LOG:  skipping vacuum of "t" --- lock not available
+2024-08-01 16:40:40.920 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:40:43.180 CEST [3008197] LOG:  checkpoint complete: wrote 18 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=1.711 s, sync=0.518 s, total=2.262 s; sync files=24, longest=0.107 s, average=0.022 s; distance=536652 kB, estimate=550102 kB; lsn=2/75798610, redo lsn=2/748EDDB8
+2024-08-01 16:41:23.313 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:41:25.259 CEST [3008197] LOG:  checkpoint complete: wrote 14 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=1.310 s, sync=0.605 s, total=1.952 s; sync files=24, longest=0.107 s, average=0.026 s; distance=532056 kB, estimate=548298 kB; lsn=2/97245880, redo lsn=2/95084040
+2024-08-01 16:41:36.810 CEST [3008345] LOG:  skipping vacuum of "t" --- lock not available
+2024-08-01 16:42:07.075 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:42:09.913 CEST [3008197] LOG:  checkpoint complete: wrote 23 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=2.213 s, sync=0.597 s, total=2.840 s; sync files=27, longest=0.111 s, average=0.023 s; distance=548362 kB, estimate=548362 kB; lsn=2/B8D016B8, redo lsn=2/B6806C28
+2024-08-01 16:42:15.238 CEST [3008197] LOG:  checkpoints are occurring too frequently (8 seconds apart)
+2024-08-01 16:42:15.238 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:42:15.239 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:42:19.062 CEST [3008197] LOG:  checkpoint complete: wrote 27 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=2.613 s, sync=1.150 s, total=3.825 s; sync files=18, longest=1.055 s, average=0.064 s; distance=543136 kB, estimate=547840 kB; lsn=2/F5388260, redo lsn=2/D7A6EF78
+2024-08-01 16:42:19.500 CEST [3008197] LOG:  checkpoints are occurring too frequently (4 seconds apart)
+2024-08-01 16:42:19.500 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:42:19.501 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:42:19.566 CEST [3008197] LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=0.005 s, sync=0.001 s, total=0.066 s; sync files=0, longest=0.000 s, average=0.000 s; distance=543526 kB, estimate=547408 kB; lsn=2/F90D77C0, redo lsn=2/F8D38900
+2024-08-01 16:42:22.825 CEST [3008197] LOG:  checkpoints are occurring too frequently (3 seconds apart)
+2024-08-01 16:42:22.825 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:42:22.825 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:42:22.893 CEST [3008197] LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 WAL file(s) added, 0 removed, 34 recycled; write=0.006 s, sync=0.001 s, total=0.068 s; sync files=0, longest=0.000 s, average=0.000 s; distance=543526 kB, estimate=547020 kB; lsn=3/1A3DEDF8, redo lsn=3/1A002298
+2024-08-01 16:42:26.253 CEST [3008197] LOG:  checkpoints are occurring too frequently (4 seconds apart)
+2024-08-01 16:42:26.253 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:42:26.254 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:42:26.322 CEST [3008197] LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=0.006 s, sync=0.001 s, total=0.069 s; sync files=0, longest=0.000 s, average=0.000 s; distance=553660 kB, estimate=553660 kB; lsn=3/3C0CBBF8, redo lsn=3/3BCB13D8
+2024-08-01 16:42:29.591 CEST [3008197] LOG:  checkpoints are occurring too frequently (3 seconds apart)
+2024-08-01 16:42:29.591 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:42:29.592 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:42:29.653 CEST [3008197] LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 WAL file(s) added, 0 removed, 34 recycled; write=0.006 s, sync=0.001 s, total=0.062 s; sync files=0, longest=0.000 s, average=0.000 s; distance=544267 kB, estimate=552721 kB; lsn=3/5D410EE0, redo lsn=3/5D034380
+2024-08-01 16:42:33.025 CEST [3008197] LOG:  checkpoints are occurring too frequently (4 seconds apart)
+2024-08-01 16:42:33.025 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:42:33.025 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:42:33.094 CEST [3008197] LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=0.006 s, sync=0.001 s, total=0.069 s; sync files=0, longest=0.000 s, average=0.000 s; distance=556626 kB, estimate=556626 kB; lsn=3/7F367BA8, redo lsn=3/7EFC8CE8
+2024-08-01 16:42:36.325 CEST [3008197] LOG:  checkpoints are occurring too frequently (3 seconds apart)
+2024-08-01 16:42:36.325 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:42:36.328 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:42:36.387 CEST [3008197] LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=0.006 s, sync=0.001 s, total=0.063 s; sync files=0, longest=0.000 s, average=0.000 s; distance=532403 kB, estimate=554204 kB; lsn=3/9FBD0478, redo lsn=3/9F7B5C50
+2024-08-01 16:42:36.829 CEST [3008359] LOG:  skipping vacuum of "t" --- lock not available
+2024-08-01 16:42:39.664 CEST [3008197] LOG:  checkpoints are occurring too frequently (3 seconds apart)
+2024-08-01 16:42:39.664 CEST [3008197] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-08-01 16:42:39.664 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:42:39.733 CEST [3008197] LOG:  checkpoint complete: wrote 0 buffers (0.0%); 0 WAL file(s) added, 0 removed, 34 recycled; write=0.006 s, sync=0.001 s, total=0.070 s; sync files=0, longest=0.000 s, average=0.000 s; distance=549211 kB, estimate=553704 kB; lsn=3/C13E94E8, redo lsn=3/C100C988
+2024-08-01 16:43:10.842 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:43:12.575 CEST [3008197] LOG:  checkpoint complete: wrote 10 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=1.009 s, sync=0.694 s, total=1.736 s; sync files=13, longest=0.240 s, average=0.054 s; distance=548644 kB, estimate=553198 kB; lsn=3/E5069AA8, redo lsn=3/E27D5D10
+2024-08-01 16:43:36.849 CEST [3008376] LOG:  skipping vacuum of "t" --- lock not available
+2024-08-01 16:43:47.657 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:43:49.270 CEST [3008197] LOG:  checkpoint complete: wrote 9 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=0.923 s, sync=0.659 s, total=1.613 s; sync files=16, longest=0.102 s, average=0.042 s; distance=543871 kB, estimate=552266 kB; lsn=4/6B09510, redo lsn=4/3AF5988
+2024-08-01 16:44:21.847 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:44:23.293 CEST [3008197] LOG:  checkpoint complete: wrote 8 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=0.809 s, sync=0.608 s, total=1.451 s; sync files=14, longest=0.110 s, average=0.044 s; distance=533523 kB, estimate=550391 kB; lsn=4/249D1600, redo lsn=4/243FA888
+2024-08-01 16:44:36.869 CEST [3008393] LOG:  skipping vacuum of "t" --- lock not available
+2024-08-01 16:45:00.523 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:45:02.367 CEST [3008197] LOG:  checkpoint complete: wrote 11 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=1.110 s, sync=0.702 s, total=1.847 s; sync files=15, longest=0.109 s, average=0.047 s; distance=543877 kB, estimate=549740 kB; lsn=4/464743E0, redo lsn=4/4571BDE8
+2024-08-01 16:45:36.888 CEST [3008467] LOG:  skipping vacuum of "t" --- lock not available
+2024-08-01 16:45:39.994 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:45:41.844 CEST [3008197] LOG:  checkpoint complete: wrote 12 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=1.210 s, sync=0.614 s, total=1.852 s; sync files=15, longest=0.128 s, average=0.041 s; distance=542994 kB, estimate=549065 kB; lsn=4/67F15AF8, redo lsn=4/66960620
+2024-08-01 16:46:20.224 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:46:21.980 CEST [3008197] LOG:  checkpoint complete: wrote 10 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=1.008 s, sync=0.718 s, total=1.760 s; sync files=15, longest=0.169 s, average=0.048 s; distance=536845 kB, estimate=547843 kB; lsn=4/899B79E0, redo lsn=4/875A3CF0
+2024-08-01 16:46:36.908 CEST [3008483] LOG:  skipping vacuum of "t" --- lock not available
+2024-08-01 16:47:01.373 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:47:03.343 CEST [3008197] LOG:  checkpoint complete: wrote 12 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=1.210 s, sync=0.727 s, total=1.970 s; sync files=16, longest=0.116 s, average=0.046 s; distance=537946 kB, estimate=546854 kB; lsn=4/AB458080, redo lsn=4/A82FA850
+2024-08-01 16:47:36.927 CEST [3008500] LOG:  skipping vacuum of "t" --- lock not available
+2024-08-01 16:47:39.489 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:47:40.902 CEST [3008197] LOG:  checkpoint complete: wrote 6 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=0.613 s, sync=0.768 s, total=1.413 s; sync files=14, longest=0.101 s, average=0.055 s; distance=540794 kB, estimate=546248 kB; lsn=4/C9319748, redo lsn=4/C9319378
+2024-08-01 16:48:22.042 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:48:23.487 CEST [3008197] LOG:  checkpoint complete: wrote 7 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=0.709 s, sync=0.707 s, total=1.448 s; sync files=15, longest=0.145 s, average=0.048 s; distance=543858 kB, estimate=546009 kB; lsn=4/EADC47E0, redo lsn=4/EA635C00
+2024-08-01 16:48:36.946 CEST [3008516] LOG:  skipping vacuum of "t" --- lock not available
+2024-08-01 16:49:05.374 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:49:06.682 CEST [3008197] LOG:  checkpoint complete: wrote 6 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=0.621 s, sync=0.660 s, total=1.312 s; sync files=15, longest=0.155 s, average=0.044 s; distance=538605 kB, estimate=545268 kB; lsn=5/C866DF0, redo lsn=5/B4311C0
+2024-08-01 16:49:36.966 CEST [3008531] LOG:  skipping vacuum of "t" --- lock not available
+2024-08-01 16:49:49.674 CEST [3008197] LOG:  checkpoint starting: wal
+2024-08-01 16:49:51.007 CEST [3008197] LOG:  checkpoint complete: wrote 7 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=0.713 s, sync=0.588 s, total=1.338 s; sync files=15, longest=0.107 s, average=0.040 s; distance=538826 kB, estimate=544624 kB; lsn=5/2E308560, redo lsn=5/2C2639E8
+2024-08-01 16:50:29.008 CEST [3008197] LOG:  checkpoint starting: immediate force wait
+2024-08-01 16:50:34.771 CEST [3008197] LOG:  checkpoint complete: wrote 12305 buffers (4.7%); 0 WAL file(s) added, 0 removed, 30 recycled; write=0.302 s, sync=5.421 s, total=5.763 s; sync files=782, longest=1.144 s, average=0.007 s; distance=500507 kB, estimate=540212 kB; lsn=5/4AB2A688, redo lsn=5/4AB2A630
+2024-08-01 16:51:45.981 CEST [3008196] LOG:  received fast shutdown request
+2024-08-01 16:51:45.982 CEST [3008196] LOG:  aborting any active transactions
+2024-08-01 16:51:45.982 CEST [3008196] LOG:  background worker "logical replication launcher" (PID 3008202) exited with exit code 1
+2024-08-01 16:51:45.985 CEST [3008197] LOG:  shutting down
+2024-08-01 16:51:45.985 CEST [3008197] LOG:  checkpoint starting: shutdown immediate
+2024-08-01 16:51:45.991 CEST [3008197] LOG:  checkpoint complete: wrote 65 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.005 s, sync=0.001 s, total=0.007 s; sync files=5, longest=0.001 s, average=0.001 s; distance=202 kB, estimate=486211 kB; lsn=5/4AB5CEA0, redo lsn=5/4AB5CEA0
+2024-08-01 16:51:46.447 CEST [3008196] LOG:  database system is shut down

@@ -1,0 +1,6 @@
+pgbench xeon scalability-no-8-1000-0-1722383416 1000 no 8 5 0 simple 1 1 18631.094467 0.054
+pgbench xeon scalability-no-8-1000-0-1722383416 1000 no 8 5 0 simple 16 1 180973.583551 0.088
+pgbench xeon scalability-no-8-1000-0-1722383416 1000 no 8 5 0 simple 32 1 321656.521595 0.099
+pgbench xeon scalability-no-8-1000-0-1722383416 1000 no 8 5 0 prepared 1 1 36689.022770 0.027
+pgbench xeon scalability-no-8-1000-0-1722383416 1000 no 8 5 0 prepared 16 1 334889.471952 0.048
+pgbench xeon scalability-no-8-1000-0-1722383416 1000 no 8 5 0 prepared 32 1 586315.575743 0.055

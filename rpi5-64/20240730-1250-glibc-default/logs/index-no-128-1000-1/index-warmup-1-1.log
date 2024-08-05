@@ -1,0 +1,13 @@
+pgbench (18devel)
+transaction type: /mnt/data/lock-scalability-test/20240730-1250-glibc-default/logs/index-no-128-1000-1/index.sql
+scaling factor: 1
+query mode: prepared
+number of clients: 32
+number of threads: 32
+maximum number of tries: 1
+duration: 10 s
+number of transactions actually processed: 286797
+number of failed transactions: 0 (0.000%)
+latency average = 1.113 ms
+initial connection time = 35.714 ms
+tps = 28763.920760 (without initial connection time)

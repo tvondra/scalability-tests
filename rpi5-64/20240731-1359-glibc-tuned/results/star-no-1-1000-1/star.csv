@@ -1,0 +1,6 @@
+star rpi5-64 scalability-no-1-1000-1-1722462285 1000 no 1 1 1 simple 1 1 7027.046382 0.142
+star rpi5-64 scalability-no-1-1000-1-1722462285 1000 no 1 1 1 simple 4 1 21880.169737 0.183
+star rpi5-64 scalability-no-1-1000-1-1722462285 1000 no 1 1 1 simple 8 1 20496.586354 0.390
+star rpi5-64 scalability-no-1-1000-1-1722462285 1000 no 1 1 1 prepared 1 1 35030.372632 0.029
+star rpi5-64 scalability-no-1-1000-1-1722462285 1000 no 1 1 1 prepared 4 1 75024.138023 0.053
+star rpi5-64 scalability-no-1-1000-1-1722462285 1000 no 1 1 1 prepared 8 1 77256.734309 0.104

@@ -1,0 +1,6 @@
+count rpi5-32 scalability-no-0-1000-1-1722363095 1000 no 0 1 simple 1 1 7935.587598 0.126
+count rpi5-32 scalability-no-0-1000-1-1722363095 1000 no 0 1 simple 4 1 24742.952226 0.162
+count rpi5-32 scalability-no-0-1000-1-1722363095 1000 no 0 1 simple 8 1 24373.294963 0.328
+count rpi5-32 scalability-no-0-1000-1-1722363095 1000 no 0 1 prepared 1 1 9765.457189 0.102
+count rpi5-32 scalability-no-0-1000-1-1722363095 1000 no 0 1 prepared 4 1 32108.531858 0.125
+count rpi5-32 scalability-no-0-1000-1-1722363095 1000 no 0 1 prepared 8 1 31903.440234 0.251

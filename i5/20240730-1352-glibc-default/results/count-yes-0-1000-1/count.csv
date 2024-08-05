@@ -1,0 +1,6 @@
+count i5 scalability-yes-0-1000-1-1722370461 1000 yes 0 1 simple 1 1 9760.017813 0.102
+count i5 scalability-yes-0-1000-1-1722370461 1000 yes 0 1 simple 4 1 36244.469195 0.110
+count i5 scalability-yes-0-1000-1-1722370461 1000 yes 0 1 simple 16 1 35704.366119 0.448
+count i5 scalability-yes-0-1000-1-1722370461 1000 yes 0 1 prepared 1 1 13143.855379 0.076
+count i5 scalability-yes-0-1000-1-1722370461 1000 yes 0 1 prepared 4 1 47608.301511 0.084
+count i5 scalability-yes-0-1000-1-1722370461 1000 yes 0 1 prepared 16 1 45878.273667 0.349

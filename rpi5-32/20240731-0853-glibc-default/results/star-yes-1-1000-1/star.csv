@@ -1,0 +1,6 @@
+star rpi5-32 scalability-yes-1-1000-1-1722445584 1000 yes 1 1 1 simple 1 1 5785.849165 0.173
+star rpi5-32 scalability-yes-1-1000-1-1722445584 1000 yes 1 1 1 simple 4 1 21006.848992 0.190
+star rpi5-32 scalability-yes-1-1000-1-1722445584 1000 yes 1 1 1 simple 8 1 19132.166144 0.418
+star rpi5-32 scalability-yes-1-1000-1-1722445584 1000 yes 1 1 1 prepared 1 1 25227.457816 0.040
+star rpi5-32 scalability-yes-1-1000-1-1722445584 1000 yes 1 1 1 prepared 4 1 65243.142463 0.061
+star rpi5-32 scalability-yes-1-1000-1-1722445584 1000 yes 1 1 1 prepared 8 1 66958.058663 0.119

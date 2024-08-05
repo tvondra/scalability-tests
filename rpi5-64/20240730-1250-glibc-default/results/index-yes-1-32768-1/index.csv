@@ -1,0 +1,6 @@
+index rpi5-64 scalability-yes-1-32768-1-1722387428 32768 yes 1 1 1 simple 1 1 8058.688367 0.124
+index rpi5-64 scalability-yes-1-32768-1-1722387428 32768 yes 1 1 1 simple 4 1 23153.955076 0.173
+index rpi5-64 scalability-yes-1-32768-1-1722387428 32768 yes 1 1 1 simple 8 1 21202.276834 0.377
+index rpi5-64 scalability-yes-1-32768-1-1722387428 32768 yes 1 1 1 prepared 1 1 21950.733552 0.046
+index rpi5-64 scalability-yes-1-32768-1-1722387428 32768 yes 1 1 1 prepared 4 1 61214.850512 0.065
+index rpi5-64 scalability-yes-1-32768-1-1722387428 32768 yes 1 1 1 prepared 8 1 63834.802673 0.125

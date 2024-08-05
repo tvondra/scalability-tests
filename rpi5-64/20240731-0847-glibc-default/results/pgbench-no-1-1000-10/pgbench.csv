@@ -1,0 +1,6 @@
+pgbench rpi5-64 scalability-no-1-1000-10-1722417640 1000 no 1 1 10 simple 1 1 15505.541423 0.064
+pgbench rpi5-64 scalability-no-1-1000-10-1722417640 1000 no 1 1 10 simple 4 1 37707.284724 0.106
+pgbench rpi5-64 scalability-no-1-1000-10-1722417640 1000 no 1 1 10 simple 8 1 37962.468345 0.211
+pgbench rpi5-64 scalability-no-1-1000-10-1722417640 1000 no 1 1 10 prepared 1 1 17918.073973 0.056
+pgbench rpi5-64 scalability-no-1-1000-10-1722417640 1000 no 1 1 10 prepared 4 1 40997.675875 0.098
+pgbench rpi5-64 scalability-no-1-1000-10-1722417640 1000 no 1 1 10 prepared 8 1 40237.699023 0.199

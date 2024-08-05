@@ -1,0 +1,15 @@
+2024-07-31 11:14:06.083 BST [32165] LOG:  starting PostgreSQL 18devel on armv8l-unknown-linux-gnueabihf, compiled by gcc (Raspbian 12.2.0-14+rpi1) 12.2.0, 32-bit
+2024-07-31 11:14:06.083 BST [32165] LOG:  listening on IPv6 address "::1", port 5432
+2024-07-31 11:14:06.083 BST [32165] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-07-31 11:14:06.151 BST [32165] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2024-07-31 11:14:06.155 BST [32168] LOG:  database system was shut down at 2024-07-31 11:14:03 BST
+2024-07-31 11:14:06.161 BST [32165] LOG:  database system is ready to accept connections
+2024-07-31 11:14:08.029 BST [32166] LOG:  checkpoint starting: immediate force wait
+2024-07-31 11:14:08.768 BST [32166] LOG:  checkpoint complete: wrote 1572 buffers (1.2%); 0 WAL file(s) added, 0 removed, 2 recycled; write=0.067 s, sync=0.636 s, total=0.739 s; sync files=415, longest=0.003 s, average=0.002 s; distance=30186 kB, estimate=30186 kB; lsn=0/3260410, redo lsn=0/32603B8
+2024-07-31 11:15:18.878 BST [32165] LOG:  received fast shutdown request
+2024-07-31 11:15:18.887 BST [32165] LOG:  aborting any active transactions
+2024-07-31 11:15:18.890 BST [32165] LOG:  background worker "logical replication launcher" (PID 32171) exited with exit code 1
+2024-07-31 11:15:18.890 BST [32166] LOG:  shutting down
+2024-07-31 11:15:18.891 BST [32166] LOG:  checkpoint starting: shutdown immediate
+2024-07-31 11:15:18.909 BST [32166] LOG:  checkpoint complete: wrote 13 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.009 s, sync=0.004 s, total=0.020 s; sync files=3, longest=0.002 s, average=0.002 s; distance=54 kB, estimate=27172 kB; lsn=0/326DD88, redo lsn=0/326DD88
+2024-07-31 11:15:19.054 BST [32165] LOG:  database system is shut down

@@ -1,0 +1,6 @@
+pgbench rpi5-64 scalability-yes-1-32768-0-1722506649 32768 yes 1 1 0 simple 1 1 21606.842367 0.046
+pgbench rpi5-64 scalability-yes-1-32768-0-1722506649 32768 yes 1 1 0 simple 4 1 47912.349743 0.083
+pgbench rpi5-64 scalability-yes-1-32768-0-1722506649 32768 yes 1 1 0 simple 8 1 51534.389236 0.155
+pgbench rpi5-64 scalability-yes-1-32768-0-1722506649 32768 yes 1 1 0 prepared 1 1 44184.992356 0.023
+pgbench rpi5-64 scalability-yes-1-32768-0-1722506649 32768 yes 1 1 0 prepared 4 1 90626.735619 0.044
+pgbench rpi5-64 scalability-yes-1-32768-0-1722506649 32768 yes 1 1 0 prepared 8 1 95403.582698 0.084

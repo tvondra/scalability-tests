@@ -1,0 +1,6 @@
+pgbench rpi5-32 scalability-yes-1-1000-1-1722363987 1000 yes 1 1 1 simple 1 1 13542.683669 0.074
+pgbench rpi5-32 scalability-yes-1-1000-1-1722363987 1000 yes 1 1 1 simple 4 1 38385.179022 0.104
+pgbench rpi5-32 scalability-yes-1-1000-1-1722363987 1000 yes 1 1 1 simple 8 1 36819.863963 0.217
+pgbench rpi5-32 scalability-yes-1-1000-1-1722363987 1000 yes 1 1 1 prepared 1 1 35213.033522 0.028
+pgbench rpi5-32 scalability-yes-1-1000-1-1722363987 1000 yes 1 1 1 prepared 4 1 78243.371946 0.051
+pgbench rpi5-32 scalability-yes-1-1000-1-1722363987 1000 yes 1 1 1 prepared 8 1 77304.556597 0.103

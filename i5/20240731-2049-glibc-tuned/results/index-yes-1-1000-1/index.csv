@@ -1,0 +1,6 @@
+index i5 scalability-yes-1-1000-1-1722489376 1000 yes 1 10 1 simple 1 1 8542.985531 0.117
+index i5 scalability-yes-1-1000-1-1722489376 1000 yes 1 10 1 simple 4 1 31873.507528 0.125
+index i5 scalability-yes-1-1000-1-1722489376 1000 yes 1 10 1 simple 16 1 29009.930502 0.552
+index i5 scalability-yes-1-1000-1-1722489376 1000 yes 1 10 1 prepared 1 1 21464.941472 0.047
+index i5 scalability-yes-1-1000-1-1722489376 1000 yes 1 10 1 prepared 4 1 75986.259925 0.053
+index i5 scalability-yes-1-1000-1-1722489376 1000 yes 1 10 1 prepared 16 1 70258.542245 0.228

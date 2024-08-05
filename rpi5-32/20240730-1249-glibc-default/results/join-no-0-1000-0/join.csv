@@ -1,0 +1,6 @@
+join rpi5-32 scalability-no-0-1000-0-1722370200 1000 no 0 1 0 simple 1 1 8923.961266 0.112
+join rpi5-32 scalability-no-0-1000-0-1722370200 1000 no 0 1 0 simple 4 1 28234.969341 0.142
+join rpi5-32 scalability-no-0-1000-0-1722370200 1000 no 0 1 0 simple 8 1 25721.988966 0.311
+join rpi5-32 scalability-no-0-1000-0-1722370200 1000 no 0 1 0 prepared 1 1 26357.859672 0.038
+join rpi5-32 scalability-no-0-1000-0-1722370200 1000 no 0 1 0 prepared 4 1 60598.988962 0.066
+join rpi5-32 scalability-no-0-1000-0-1722370200 1000 no 0 1 0 prepared 8 1 65537.302994 0.122

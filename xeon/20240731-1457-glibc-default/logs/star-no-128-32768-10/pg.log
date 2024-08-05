@@ -1,0 +1,41 @@
+2024-07-31 19:57:03.756 CEST [2002290] LOG:  starting PostgreSQL 18devel on x86_64-pc-linux-gnu, compiled by gcc (Debian 12.2.0-14) 12.2.0, 64-bit
+2024-07-31 19:57:03.756 CEST [2002290] LOG:  listening on IPv6 address "::1", port 5432
+2024-07-31 19:57:03.756 CEST [2002290] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2024-07-31 19:57:03.772 CEST [2002290] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2024-07-31 19:57:03.774 CEST [2002293] LOG:  database system was shut down at 2024-07-31 19:57:02 CEST
+2024-07-31 19:57:03.778 CEST [2002290] LOG:  database system is ready to accept connections
+2024-07-31 19:57:12.449 CEST [2002291] LOG:  checkpoints are occurring too frequently (9 seconds apart)
+2024-07-31 19:57:12.449 CEST [2002291] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-07-31 19:57:12.449 CEST [2002291] LOG:  checkpoint starting: wal
+2024-07-31 19:57:20.297 CEST [2002291] LOG:  checkpoint complete: wrote 39346 buffers (15.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=7.443 s, sync=0.334 s, total=7.849 s; sync files=345, longest=0.221 s, average=0.001 s; distance=535646 kB, estimate=535646 kB; lsn=0/401C5110, redo lsn=0/22002F18
+2024-07-31 19:57:20.937 CEST [2002291] LOG:  checkpoints are occurring too frequently (8 seconds apart)
+2024-07-31 19:57:20.937 CEST [2002291] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-07-31 19:57:20.939 CEST [2002291] LOG:  checkpoint starting: wal
+2024-07-31 19:57:27.856 CEST [2002291] LOG:  checkpoint complete: wrote 39561 buffers (15.1%); 0 WAL file(s) added, 0 removed, 33 recycled; write=6.728 s, sync=0.141 s, total=6.920 s; sync files=3, longest=0.135 s, average=0.047 s; distance=545180 kB, estimate=545180 kB; lsn=0/6198E080, redo lsn=0/4346A078
+2024-07-31 19:57:28.481 CEST [2002291] LOG:  checkpoints are occurring too frequently (8 seconds apart)
+2024-07-31 19:57:28.481 CEST [2002291] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-07-31 19:57:28.481 CEST [2002291] LOG:  checkpoint starting: wal
+2024-07-31 19:57:56.422 CEST [2002291] LOG:  checkpoint complete: wrote 39790 buffers (15.2%); 0 WAL file(s) added, 3 removed, 30 recycled; write=27.127 s, sync=0.734 s, total=27.942 s; sync files=13, longest=0.124 s, average=0.057 s; distance=548216 kB, estimate=548216 kB; lsn=0/850D9530, redo lsn=0/64BC80F8
+2024-07-31 19:57:56.422 CEST [2002291] LOG:  checkpoints are occurring too frequently (28 seconds apart)
+2024-07-31 19:57:56.422 CEST [2002291] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-07-31 19:57:56.422 CEST [2002291] LOG:  checkpoint starting: wal
+2024-07-31 19:58:07.130 CEST [2002291] LOG:  checkpoint complete: wrote 68051 buffers (26.0%); 0 WAL file(s) added, 3 removed, 30 recycled; write=9.984 s, sync=0.650 s, total=10.708 s; sync files=20, longest=0.426 s, average=0.033 s; distance=530354 kB, estimate=546430 kB; lsn=0/A601DE88, redo lsn=0/851B4C88
+2024-07-31 19:58:07.130 CEST [2002291] LOG:  checkpoints are occurring too frequently (11 seconds apart)
+2024-07-31 19:58:07.130 CEST [2002291] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-07-31 19:58:07.130 CEST [2002291] LOG:  checkpoint starting: wal
+2024-07-31 19:58:09.810 CEST [2002291] LOG:  checkpoint complete: wrote 27 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=2.611 s, sync=0.006 s, total=2.681 s; sync files=20, longest=0.001 s, average=0.001 s; distance=542373 kB, estimate=546024 kB; lsn=0/BAD758D8, redo lsn=0/A635E2C0
+2024-07-31 19:58:13.555 CEST [2002291] LOG:  checkpoints are occurring too frequently (6 seconds apart)
+2024-07-31 19:58:13.555 CEST [2002291] HINT:  Consider increasing the configuration parameter "max_wal_size".
+2024-07-31 19:58:13.555 CEST [2002291] LOG:  checkpoint starting: wal
+2024-07-31 19:58:14.629 CEST [2002291] LOG:  checkpoint complete: wrote 8 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=0.812 s, sync=0.231 s, total=1.074 s; sync files=7, longest=0.229 s, average=0.033 s; distance=540710 kB, estimate=545492 kB; lsn=0/C7367D98, redo lsn=0/C7367CF0
+2024-07-31 19:58:43.804 CEST [2002291] LOG:  checkpoint starting: wal
+2024-07-31 19:58:45.326 CEST [2002291] LOG:  checkpoint complete: wrote 8 buffers (0.0%); 0 WAL file(s) added, 0 removed, 33 recycled; write=0.807 s, sync=0.683 s, total=1.523 s; sync files=19, longest=0.158 s, average=0.036 s; distance=550437 kB, estimate=550437 kB; lsn=0/E8E4F8F0, redo lsn=0/E8CF1348
+2024-07-31 19:58:49.498 CEST [2002291] LOG:  checkpoint starting: immediate force wait
+2024-07-31 19:58:50.502 CEST [2002291] LOG:  checkpoint complete: wrote 1952 buffers (0.7%); 0 WAL file(s) added, 0 removed, 5 recycled; write=0.033 s, sync=0.953 s, total=1.004 s; sync files=418, longest=0.753 s, average=0.003 s; distance=80473 kB, estimate=503441 kB; lsn=0/EDB879B0, redo lsn=0/EDB87958
+2024-07-31 20:00:00.680 CEST [2002290] LOG:  received fast shutdown request
+2024-07-31 20:00:00.680 CEST [2002290] LOG:  aborting any active transactions
+2024-07-31 20:00:00.682 CEST [2002290] LOG:  background worker "logical replication launcher" (PID 2002296) exited with exit code 1
+2024-07-31 20:00:00.709 CEST [2002291] LOG:  shutting down
+2024-07-31 20:00:00.710 CEST [2002291] LOG:  checkpoint starting: shutdown immediate
+2024-07-31 20:00:00.717 CEST [2002291] LOG:  checkpoint complete: wrote 73 buffers (0.0%); 0 WAL file(s) added, 0 removed, 0 recycled; write=0.005 s, sync=0.002 s, total=0.008 s; sync files=10, longest=0.001 s, average=0.001 s; distance=247 kB, estimate=453121 kB; lsn=0/EDBC5718, redo lsn=0/EDBC5718
+2024-07-31 20:00:01.039 CEST [2002290] LOG:  database system is shut down

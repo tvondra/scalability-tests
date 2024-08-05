@@ -1,0 +1,6 @@
+index xeon scalability-yes-8-1000-1-1722490472 1000 yes 8 10 1 simple 1 1 7655.145737 0.131
+index xeon scalability-yes-8-1000-1-1722490472 1000 yes 8 10 1 simple 16 1 85979.093052 0.186
+index xeon scalability-yes-8-1000-1-1722490472 1000 yes 8 10 1 simple 32 1 135603.671629 0.236
+index xeon scalability-yes-8-1000-1-1722490472 1000 yes 8 10 1 prepared 1 1 22347.526564 0.045
+index xeon scalability-yes-8-1000-1-1722490472 1000 yes 8 10 1 prepared 16 1 208512.477748 0.077
+index xeon scalability-yes-8-1000-1-1722490472 1000 yes 8 10 1 prepared 32 1 340482.590663 0.094

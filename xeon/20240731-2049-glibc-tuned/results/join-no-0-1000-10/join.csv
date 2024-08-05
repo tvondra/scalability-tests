@@ -1,0 +1,6 @@
+join xeon scalability-no-0-1000-10-1722483552 1000 no 0 5 10 simple 1 1 3657.997399 0.273
+join xeon scalability-no-0-1000-10-1722483552 1000 no 0 5 10 simple 16 1 39093.613875 0.409
+join xeon scalability-no-0-1000-10-1722483552 1000 no 0 5 10 simple 32 1 50629.763977 0.632
+join xeon scalability-no-0-1000-10-1722483552 1000 no 0 5 10 prepared 1 1 12380.143476 0.081
+join xeon scalability-no-0-1000-10-1722483552 1000 no 0 5 10 prepared 16 1 123420.520144 0.130
+join xeon scalability-no-0-1000-10-1722483552 1000 no 0 5 10 prepared 32 1 153905.160425 0.208

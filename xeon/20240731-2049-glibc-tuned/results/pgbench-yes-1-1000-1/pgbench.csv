@@ -1,0 +1,6 @@
+pgbench xeon scalability-yes-1-1000-1-1722494885 1000 yes 1 5 1 simple 1 1 12998.152395 0.077
+pgbench xeon scalability-yes-1-1000-1-1722494885 1000 yes 1 5 1 simple 16 1 148313.031122 0.108
+pgbench xeon scalability-yes-1-1000-1-1722494885 1000 yes 1 5 1 simple 32 1 258657.276285 0.124
+pgbench xeon scalability-yes-1-1000-1-1722494885 1000 yes 1 5 1 prepared 1 1 27185.579554 0.037
+pgbench xeon scalability-yes-1-1000-1-1722494885 1000 yes 1 5 1 prepared 16 1 332262.366823 0.048
+pgbench xeon scalability-yes-1-1000-1-1722494885 1000 yes 1 5 1 prepared 32 1 597272.337396 0.054

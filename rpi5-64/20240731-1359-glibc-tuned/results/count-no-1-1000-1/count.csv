@@ -1,0 +1,6 @@
+count rpi5-64 scalability-no-1-1000-1-1722459413 1000 no 1 1 simple 1 1 8192.118168 0.122
+count rpi5-64 scalability-no-1-1000-1-1722459413 1000 no 1 1 simple 4 1 27501.724147 0.145
+count rpi5-64 scalability-no-1-1000-1-1722459413 1000 no 1 1 simple 8 1 28170.244760 0.284
+count rpi5-64 scalability-no-1-1000-1-1722459413 1000 no 1 1 prepared 1 1 9998.784783 0.100
+count rpi5-64 scalability-no-1-1000-1-1722459413 1000 no 1 1 prepared 4 1 36796.720413 0.109
+count rpi5-64 scalability-no-1-1000-1-1722459413 1000 no 1 1 prepared 8 1 36498.815172 0.219

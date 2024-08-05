@@ -1,0 +1,6 @@
+count i5 scalability-no-8-1000-0-1722379175 1000 no 8 0 simple 1 1 11844.102494 0.084
+count i5 scalability-no-8-1000-0-1722379175 1000 no 8 0 simple 4 1 43185.362466 0.093
+count i5 scalability-no-8-1000-0-1722379175 1000 no 8 0 simple 16 1 41793.254878 0.383
+count i5 scalability-no-8-1000-0-1722379175 1000 no 8 0 prepared 1 1 15144.656327 0.066
+count i5 scalability-no-8-1000-0-1722379175 1000 no 8 0 prepared 4 1 54647.737316 0.073
+count i5 scalability-no-8-1000-0-1722379175 1000 no 8 0 prepared 16 1 53013.436315 0.302

@@ -1,0 +1,6 @@
+join rpi5-64 scalability-yes-0-1000-0-1722365460 1000 yes 0 1 0 simple 1 1 10474.875840 0.095
+join rpi5-64 scalability-yes-0-1000-0-1722365460 1000 yes 0 1 0 simple 4 1 29703.218896 0.135
+join rpi5-64 scalability-yes-0-1000-0-1722365460 1000 yes 0 1 0 simple 8 1 29370.426977 0.272
+join rpi5-64 scalability-yes-0-1000-0-1722365460 1000 yes 0 1 0 prepared 1 1 27562.196250 0.036
+join rpi5-64 scalability-yes-0-1000-0-1722365460 1000 yes 0 1 0 prepared 4 1 72591.740894 0.055
+join rpi5-64 scalability-yes-0-1000-0-1722365460 1000 yes 0 1 0 prepared 8 1 74372.463761 0.108

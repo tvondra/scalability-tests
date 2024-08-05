@@ -1,0 +1,6 @@
+pgbench i5 scalability-yes-8-32768-1-1722537794 32768 yes 8 5 1 simple 1 1 14407.200760 0.069
+pgbench i5 scalability-yes-8-32768-1-1722537794 32768 yes 8 5 1 simple 4 1 49502.964606 0.081
+pgbench i5 scalability-yes-8-32768-1-1722537794 32768 yes 8 5 1 simple 16 1 47756.432531 0.335
+pgbench i5 scalability-yes-8-32768-1-1722537794 32768 yes 8 5 1 prepared 1 1 31237.272444 0.032
+pgbench i5 scalability-yes-8-32768-1-1722537794 32768 yes 8 5 1 prepared 4 1 103382.360341 0.039
+pgbench i5 scalability-yes-8-32768-1-1722537794 32768 yes 8 5 1 prepared 16 1 95699.587783 0.167

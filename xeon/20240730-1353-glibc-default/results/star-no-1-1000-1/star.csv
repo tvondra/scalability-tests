@@ -1,0 +1,6 @@
+star xeon scalability-no-1-1000-1-1722376879 1000 no 1 10 1 simple 1 1 6788.338961 0.147
+star xeon scalability-no-1-1000-1-1722376879 1000 no 1 10 1 simple 16 1 74047.010706 0.216
+star xeon scalability-no-1-1000-1-1722376879 1000 no 1 10 1 simple 32 1 112143.961456 0.285
+star xeon scalability-no-1-1000-1-1722376879 1000 no 1 10 1 prepared 1 1 25518.528922 0.039
+star xeon scalability-no-1-1000-1-1722376879 1000 no 1 10 1 prepared 16 1 267814.648275 0.060
+star xeon scalability-no-1-1000-1-1722376879 1000 no 1 10 1 prepared 32 1 463624.058861 0.069

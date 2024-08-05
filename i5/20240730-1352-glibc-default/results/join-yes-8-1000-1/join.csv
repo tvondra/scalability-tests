@@ -1,0 +1,6 @@
+join i5 scalability-yes-8-1000-1-1722372133 1000 yes 8 5 1 simple 1 1 7926.634472 0.126
+join i5 scalability-yes-8-1000-1-1722372133 1000 yes 8 5 1 simple 4 1 29682.546637 0.135
+join i5 scalability-yes-8-1000-1-1722372133 1000 yes 8 5 1 simple 16 1 28810.099582 0.555
+join i5 scalability-yes-8-1000-1-1722372133 1000 yes 8 5 1 prepared 1 1 25024.111944 0.040
+join i5 scalability-yes-8-1000-1-1722372133 1000 yes 8 5 1 prepared 4 1 85193.819836 0.047
+join i5 scalability-yes-8-1000-1-1722372133 1000 yes 8 5 1 prepared 16 1 80291.499555 0.199

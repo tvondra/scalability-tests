@@ -1,0 +1,6 @@
+index rpi5-32 scalability-yes-1-32768-0-1722572896 32768 yes 1 1 0 simple 1 1 7345.165255 0.136
+index rpi5-32 scalability-yes-1-32768-0-1722572896 32768 yes 1 1 0 simple 4 1 22783.046199 0.176
+index rpi5-32 scalability-yes-1-32768-0-1722572896 32768 yes 1 1 0 simple 8 1 21900.100119 0.365
+index rpi5-32 scalability-yes-1-32768-0-1722572896 32768 yes 1 1 0 prepared 1 1 16858.801040 0.059
+index rpi5-32 scalability-yes-1-32768-0-1722572896 32768 yes 1 1 0 prepared 4 1 54297.048515 0.074
+index rpi5-32 scalability-yes-1-32768-0-1722572896 32768 yes 1 1 0 prepared 8 1 55738.785785 0.144

@@ -1,0 +1,6 @@
+join xeon scalability-yes-1-1000-100-1722461355 1000 yes 1 5 100 simple 1 1 498.373709 2.007
+join xeon scalability-yes-1-1000-100-1722461355 1000 yes 1 5 100 simple 16 1 4934.480843 3.242
+join xeon scalability-yes-1-1000-100-1722461355 1000 yes 1 5 100 simple 32 1 5198.365297 6.156
+join xeon scalability-yes-1-1000-100-1722461355 1000 yes 1 5 100 prepared 1 1 1986.152746 0.503
+join xeon scalability-yes-1-1000-100-1722461355 1000 yes 1 5 100 prepared 16 1 18035.477737 0.887
+join xeon scalability-yes-1-1000-100-1722461355 1000 yes 1 5 100 prepared 32 1 19907.275385 1.607

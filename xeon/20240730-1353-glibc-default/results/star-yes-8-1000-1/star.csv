@@ -1,0 +1,6 @@
+star xeon scalability-yes-8-1000-1-1722376187 1000 yes 8 10 1 simple 1 1 6688.317769 0.150
+star xeon scalability-yes-8-1000-1-1722376187 1000 yes 8 10 1 simple 16 1 74078.939062 0.216
+star xeon scalability-yes-8-1000-1-1722376187 1000 yes 8 10 1 simple 32 1 111680.804193 0.287
+star xeon scalability-yes-8-1000-1-1722376187 1000 yes 8 10 1 prepared 1 1 28403.237145 0.035
+star xeon scalability-yes-8-1000-1-1722376187 1000 yes 8 10 1 prepared 16 1 263921.925640 0.061
+star xeon scalability-yes-8-1000-1-1722376187 1000 yes 8 10 1 prepared 32 1 460049.391517 0.070

@@ -1,0 +1,6 @@
+pgbench i5 scalability-no-0-1000-0-1722376010 1000 no 0 5 0 simple 1 1 17294.339230 0.058
+pgbench i5 scalability-no-0-1000-0-1722376010 1000 no 0 5 0 simple 4 1 58028.523188 0.069
+pgbench i5 scalability-no-0-1000-0-1722376010 1000 no 0 5 0 simple 16 1 57315.379010 0.279
+pgbench i5 scalability-no-0-1000-0-1722376010 1000 no 0 5 0 prepared 1 1 31311.258336 0.032
+pgbench i5 scalability-no-0-1000-0-1722376010 1000 no 0 5 0 prepared 4 1 102993.589595 0.039
+pgbench i5 scalability-no-0-1000-0-1722376010 1000 no 0 5 0 prepared 16 1 97366.332334 0.164

@@ -1,0 +1,6 @@
+pgbench rpi5-32 scalability-no-8-32768-1-1722486679 32768 no 8 1 1 simple 1 1 15105.270886 0.066
+pgbench rpi5-32 scalability-no-8-32768-1-1722486679 32768 no 8 1 1 simple 4 1 39536.949775 0.101
+pgbench rpi5-32 scalability-no-8-32768-1-1722486679 32768 no 8 1 1 simple 8 1 38234.735154 0.209
+pgbench rpi5-32 scalability-no-8-32768-1-1722486679 32768 no 8 1 1 prepared 1 1 26861.834632 0.037
+pgbench rpi5-32 scalability-no-8-32768-1-1722486679 32768 no 8 1 1 prepared 4 1 79217.730550 0.050
+pgbench rpi5-32 scalability-no-8-32768-1-1722486679 32768 no 8 1 1 prepared 8 1 76827.335369 0.104

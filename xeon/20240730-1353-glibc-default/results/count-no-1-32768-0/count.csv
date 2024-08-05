@@ -1,0 +1,6 @@
+count xeon scalability-no-1-32768-0-1722426289 32768 no 1 0 simple 1 1 11003.300210 0.091
+count xeon scalability-no-1-32768-0-1722426289 32768 no 1 0 simple 16 1 122159.875909 0.131
+count xeon scalability-no-1-32768-0-1722426289 32768 no 1 0 simple 32 1 178002.083956 0.180
+count xeon scalability-no-1-32768-0-1722426289 32768 no 1 0 prepared 1 1 13943.574952 0.072
+count xeon scalability-no-1-32768-0-1722426289 32768 no 1 0 prepared 16 1 150127.392762 0.107
+count xeon scalability-no-1-32768-0-1722426289 32768 no 1 0 prepared 32 1 217597.881065 0.147

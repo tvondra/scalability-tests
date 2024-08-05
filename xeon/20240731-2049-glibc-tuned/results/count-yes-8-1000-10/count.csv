@@ -1,0 +1,6 @@
+count xeon scalability-yes-8-1000-10-1722484603 1000 yes 8 10 simple 1 1 7125.743430 0.140
+count xeon scalability-yes-8-1000-10-1722484603 1000 yes 8 10 simple 16 1 78607.428342 0.204
+count xeon scalability-yes-8-1000-10-1722484603 1000 yes 8 10 simple 32 1 108960.795529 0.294
+count xeon scalability-yes-8-1000-10-1722484603 1000 yes 8 10 prepared 1 1 9796.894218 0.102
+count xeon scalability-yes-8-1000-10-1722484603 1000 yes 8 10 prepared 16 1 108838.361072 0.147
+count xeon scalability-yes-8-1000-10-1722484603 1000 yes 8 10 prepared 32 1 144105.587889 0.222

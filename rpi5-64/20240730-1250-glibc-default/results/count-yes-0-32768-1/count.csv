@@ -1,0 +1,6 @@
+count rpi5-64 scalability-yes-0-32768-1-1722390551 32768 yes 0 1 simple 1 1 8305.335993 0.120
+count rpi5-64 scalability-yes-0-32768-1-1722390551 32768 yes 0 1 simple 4 1 28477.255319 0.140
+count rpi5-64 scalability-yes-0-32768-1-1722390551 32768 yes 0 1 simple 8 1 28405.700318 0.282
+count rpi5-64 scalability-yes-0-32768-1-1722390551 32768 yes 0 1 prepared 1 1 10275.989755 0.097
+count rpi5-64 scalability-yes-0-32768-1-1722390551 32768 yes 0 1 prepared 4 1 37031.260879 0.108
+count rpi5-64 scalability-yes-0-32768-1-1722390551 32768 yes 0 1 prepared 8 1 36732.140368 0.218
